@@ -1,0 +1,23 @@
+{
+  "repo": "ufs-explorer-data-recovery-premium",
+  "product": "UFS Explorer Data Recovery Premium",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "utility",
+  "topics": [
+    "ufs-explorer",
+    "raid-recovery",
+    "deleted-files",
+    "apfs-ntfs-scan",
+    "forensic-copy",
+    "ufs-setup-failed-fix",
+    "how-to-install-ufs",
+    "ufs-windows",
+    "ufs-desktop-2026",
+    "ufs-desktop-package"
+  ],
+  "site": "toolix.me"
+}
